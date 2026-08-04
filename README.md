@@ -1,14 +1,3 @@
-# WORK IN PROGRESS
-
-auf keinen Fall irgendwo veröffentlichen.
-
-
-
-
-
-
-
-
 # awesome-Liste der Fachschaft Informatik
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/topics/awesome)
