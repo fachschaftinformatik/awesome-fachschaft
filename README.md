@@ -14,6 +14,12 @@ Diese Liste enthält wichtige und interessante Links zu Themen rund ums Studium.
 
 
 
+# Wissenswertes
+
+| Thema | Link  | Zusammenfassung |
+|-------|-------|-----------------|
+| Was ist eigentlich Git/GitHub | [Medium](https://medium.com/@lemmiix/wie-git-und-github-gitlab-codeberg-funktionieren-7627925a5f1b) | Eine kurze Einleitung zu Git, um ein erstes intuitives Verständnis für Git zu entwickeln |
+
 
 
 # Beteiligen
