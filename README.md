@@ -4,6 +4,12 @@
 
 Diese Liste enthält wichtige und interessante Links zu Themen rund ums Studium.
 
+# Allgemein
+
+| Thema | Link  | Zusammenfassung |
+|-------|-------|-----------------|
+| Was sind awesome-Listen | [awesome](https://github.com/topics/awesome) | Erklärung und Übersicht an awesome-Listen |
+
 
 
 # Abschlussarbeit
